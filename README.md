@@ -1,6 +1,6 @@
 # mini_bot
 
-最小可執行的 Personal AI Agent，基於 LiteLLM 支援多種 LLM Provider，預設使用 **MiniMax M2.5**。
+最小可執行的 Personal AI Agent，基於 LiteLLM 支援多種 LLM Provider。
 
 ## 特色
 
@@ -23,7 +23,7 @@ copy config.json.example ~\.minibot\config.json
 # 初始化 workspace
 minibot onboard
 
-# 編輯 API Key（用下方範例填入你的 MiniMax API Key）
+# 編輯 API Key（用下方範例填入你的 API Key）
 notepad ~\.minibot\config.json
 
 # 複製 workspace 範本（第一次使用）
