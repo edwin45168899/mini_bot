@@ -18,7 +18,7 @@
 pip install -e .
 
 # 複製設定範本到家目錄（Windows PowerShell）
-copy config.json.example ~\.minibot\config.json
+copy config.example.json ~\.minibot\config.json
 
 # 初始化 workspace
 minibot onboard

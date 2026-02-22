@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 修改
+
+- 將 `config.json.example` 更名為 `config.example.json`，並同步更新 README。
+
 ### 新增
 
 - **全域規範與相容性**：建立 `GEMINI.md` 與 `.opencode/rules/AGENTS.md`。(Why: 確保遵循全域 AI Agent 指南，並保持與 Opencode 環境的相容性，同時設定千行代碼的收尾檢查機制)
