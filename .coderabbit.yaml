@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
-language: "zh-CN" # 指定預設語言（注意：zh-TW 不支援，使用 zh-CN 並透過 path_instructions 指定繁體中文）
+language: "en-US" # 由於 zh-TW 不支援，使用英文作為基礎語言，透過 path_instructions 指定繁體中文
 reviews:
   # 在此輸入您的自訂指令
   path_instructions:
