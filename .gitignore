@@ -56,3 +56,4 @@ workspace/memory/HISTORY.md
 # 日誌
 *.log
 logs/
+.grepai/
